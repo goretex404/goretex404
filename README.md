@@ -1,10 +1,13 @@
-### Hi there 👋
+## 👋👋 Hi there 👋👋
+### ✨faithfully, Steadily, boldly✨
+
+![goretex404's github stats](https://github-readme-stats.vercel.app/api?username=goretex404&show_icons=true)
 
 <!--
 **goretex404/goretex404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### 博學 審問 愼思 明辯 篤行
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
